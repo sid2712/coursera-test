@@ -1,0 +1,11 @@
+h1 {
+    color: blue;
+    background-color: aquamarine;
+    font: bold;
+    align-content: center;
+}
+a>div:hover{
+    background-color:bisque ;
+    width: 200px;
+    
+}
